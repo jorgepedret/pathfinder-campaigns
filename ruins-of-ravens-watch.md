@@ -89,7 +89,11 @@ Secret door: DC 15 Perception
 Inspect walls: 
 "You notice that somebody wrote in chalk a sequence of numberes: 6 4 4 9 2 2 8"
 
-8. Guards room
-"This room was once a place where guards worked and guarded the cells"
+8. Guards room (0 XP)
+---------------------
+"This room was once a place where guards stood to guard the cells. Straight ahead you see the cells where prisoners used to live in. It surprises you how clean this room is after so many years of it not being used."
 
-... TO BE CONTINUED
+"To the right you see a big door, although it seems to be locked. There's also a desk in the middle of the room and a door right behind it."
+
+
+
